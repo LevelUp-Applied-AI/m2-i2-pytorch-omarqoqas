@@ -8,3 +8,4 @@ dist/
 build/
 .pytest_cache/
 predictions.csv
+jupyter.ipynb/g
